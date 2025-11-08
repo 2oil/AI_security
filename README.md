@@ -8,7 +8,7 @@
 ---
 
 ⚙️ 1. Colab 접속 및 새 노트북 생성  
-1️⃣ [https://colab.google/](https://colab.google/)<br>
+1️⃣ [https://colab.google/](https://colab.google/) 접속 <br>
 2️⃣ **New notebook**을 클릭하여 새 Colab 노트북을 생성합니다.  
 
 ---
@@ -16,7 +16,6 @@
 💻 2. 런타임 설정 변경  
 1️⃣ 상단 메뉴에서 “런타임 → 런타임 유형 변경(Change runtime type)” 선택<br>
 2️⃣ **하드웨어 가속기(Accelerator)** → `T4 GPU` 선택<br>
-3️⃣ **런타임 유형(Runtime type)** → `Python 3` 선택<br>
 4️⃣ **[저장]** 클릭  
 
 > 💡 GPU를 사용하면 학습 및 적대적 공격 연산 속도가 크게 향상됩니다.<br>
@@ -27,7 +26,7 @@
 ---
 
 ▶️ 3. 코드 실행  
-Colab 상단 메뉴의 **“런타임 → 모든 셀 실행(Run all)”** 을 클릭하면 전체 코드가 순차적으로 실행됩니다.  
+셀에 코드 입력 후 Shift + Enter 시 셀이 실행됩니다.
 
 ---
 
