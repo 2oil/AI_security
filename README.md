@@ -14,7 +14,7 @@
 
 ⚙️ 1. Colab 접속 및 새 노트북 생성  
 1️⃣ [https://colab.google/](https://colab.google/) 접속 <br>
-2️⃣ **New notebook**을 클릭하여 새 Colab 노트북을 생성합니다.  
+2️⃣ **New notebook**을 클릭하여 새 Colab 노트북을 생성하거나 **Open Colab**을 클릭하여 .ipynb 파일을 업로드합니다.
 
 ---
 
