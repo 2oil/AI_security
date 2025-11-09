@@ -5,6 +5,11 @@
 이 노트북은 Google Colab 환경에서 바로 실행할 수 있습니다.<br>
 간단한 CNN 모델 학습, 적대적 공격 실험, 방어 실험 등 전 과정을 재현할 수 있습니다.  
 
+💡 참고 자료
+- 설명 영상 : https://drive.google.com/file/d/12Mou9kRmScPQOCtzjr2i7a73_BPoZ1b2/view?usp=sharing
+- Pytorch 공식 튜토리얼 : https://tutorials.pytorch.kr/beginner/fgsm_tutorial.html
+- Goodfellow et al. (2015), Explaining and Harnessing Adversarial Examples (https://arxiv.org/abs/1412.6572)
+
 ---
 
 ⚙️ 1. Colab 접속 및 새 노트북 생성  
